@@ -1,3 +1,8 @@
+??.??.20??: Rhialto
+        version 0.7:
+        - Left-shift operator _; disabled when the -yus option is used.
+          Contributed by Stephen Casner.
+
 13.02.2021: Rhialto
         version 0.6:
         - Fixed rounding issues with floating point literals.
